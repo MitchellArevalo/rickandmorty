@@ -1,0 +1,22 @@
+nav{
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+nav .titulo{
+    width: 60%;
+    display: flex;
+    justify-content: right;
+}
+nav .titulo img{
+    width: 30rem;
+}
+nav .menu{
+    width: 40%;
+    display: flex;
+    justify-content: right;
+}
+nav .menu img{
+    margin: 0 5rem 0 0;
+    width: 7rem;
+}
