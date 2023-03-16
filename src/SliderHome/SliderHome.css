@@ -1,0 +1,12 @@
+.imgSlider{
+    border: 5px solid black;
+    object-fit: cover;
+}
+.divStyle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-color: black;
+    height: 40rem;
+}
