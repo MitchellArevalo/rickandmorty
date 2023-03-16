@@ -1,12 +1,20 @@
 .imgSlider{
     border: 5px solid black;
     object-fit: cover;
+    width: 100vw;
 }
 .divStyle{
     display: flex;
-    align-items: center;
+    align-items: baseline;
     justify-content: center;
     background-size: cover;
     background-color: black;
-    height: 40rem;
+    height: calc(100vh - 15vh);
+}
+
+.nav.default-nav{
+   margin: 0 3rem 0 3rem;
+   padding: 1rem;
+   width: 5rem;
+   height: 5rem;
 }

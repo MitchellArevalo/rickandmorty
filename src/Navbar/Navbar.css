@@ -2,6 +2,7 @@ nav{
     background-color: black;
     display: flex;
     align-items: center;
+    height: 15vh;
 }
 nav .titulo{
     width: 60%;
