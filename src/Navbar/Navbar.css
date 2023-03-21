@@ -16,8 +16,10 @@ nav .menu{
     width: 40%;
     display: flex;
     justify-content: right;
+    position: relative;
 }
 nav .menu img{
     margin: 0 5rem 0 0;
     width: 7rem;
+    cursor: pointer;
 }

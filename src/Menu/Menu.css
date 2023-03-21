@@ -1,0 +1,17 @@
+.mainMenu{
+    background-color: rgba(0, 0, 0, 0.397);
+    width: 100%;
+    height: calc(100vh - 15vh);
+    top: 15vh;
+    left: 0;
+    position:absolute;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.menuContainer{
+    background-color: white;
+    height: 100%;
+    width: 30%;
+}
